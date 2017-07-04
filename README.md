@@ -3,7 +3,7 @@
     src="https://cdn.worldvectorlogo.com/logos/nginx.svg">
   <a href="https://github.com/easymetrics">
     <img width="200" height="200" vspace="" hspace="25"
-      src="https://cdn.worldvectorlogo.com/logos/easymetrics.svg">
+      src="https://cdn.worldvectorlogo.com/logos/easymetrics-inc.svg">
   </a>
   <h1>Redis v3.2 Base</h1>
   <p>Redis for local development & E2E tests in CircleCI 2.0.<p>
